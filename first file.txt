@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello this is first file.
 This is title 1 from main branch
+=======
+Hello this is first file
+>>>>>>> parent of 3aa4396 (title added in first file)
